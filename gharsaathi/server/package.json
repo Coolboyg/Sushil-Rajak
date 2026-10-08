@@ -1,0 +1,17 @@
+{
+  "name": "gharsaathi-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "GharSaathi Real-Time Backend Service with Socket.IO",
+  "main": "src.js",
+  "scripts": {
+    "start": "node src.js",
+    "dev": "node src.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.4"
+  }
+}

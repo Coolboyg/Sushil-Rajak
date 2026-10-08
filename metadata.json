@@ -1,0 +1,7 @@
+{
+  "name": "GharSaathi",
+  "description": "घर के हर काम का भरोसेमंद साथी - On-demand home services marketplace connecting customers with verified local service professionals with real-time dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,15 @@
+{
+  "name": "gharsaathi-workspace",
+  "version": "1.0.0",
+  "description": "GharSaathi - घर के हर काम का भरोसेमंद साथी (Customer, Partner & Admin Platform)",
+  "private": true,
+  "scripts": {
+    "start": "node server/src.js",
+    "dev:server": "node server/src.js",
+    "dev:web": "cd web && npm run dev",
+    "install:all": "npm install && cd server && npm install && cd ../web && npm install"
+  },
+  "keywords": ["home-services", "on-demand", "india", "real-time-dispatch"],
+  "author": "GharSaathi Team (Support: 8435423190)",
+  "license": "ISC"
+}
